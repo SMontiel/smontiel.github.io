@@ -177,8 +177,8 @@ footer{
 		width:80%;
 	}
 	#fab{
-		bottom:2%;
-		right:2%;
+		bottom:4%;
+		right:4%;
 	}
 }
 @media (max-width: 480px){
@@ -186,7 +186,7 @@ footer{
 		width:90%;
 	}
 	#fab{
-		bottom:2%;
-		right:2%;
+		bottom:4%;
+		right:4%;
 	}
 }
