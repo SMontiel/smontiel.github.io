@@ -15,7 +15,7 @@ body{
 	padding:0;
 	color:#212121;
 	background-color:#EEEEEE;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Asul', sans-serif;
 }
 a{
 	color:#2196F3; /*Change link color */
@@ -47,14 +47,14 @@ a:hover{
 	text-align:center;
 }
 #quick_card #photo{
-	height:80px;
-	width:80px;
-	border-radius:99px;
+	height:120px;
+	width:120px;
+	border-radius:100px;
 }
 #quick_card #name{
 	font-weight:normal;
 	margin-top:20px;
-	font-size:19px;
+	font-size:25px;
 	color:#212121;
 }
 #quick_card #description{

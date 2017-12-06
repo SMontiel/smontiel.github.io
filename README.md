@@ -1,2 +1,2 @@
-# site
-My personal site
+# Personal site 
+Sources for my personal site
